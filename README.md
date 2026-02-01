@@ -5,8 +5,6 @@
 
 A cinematic Fake-3D bowling game built with Python and Pygame. Experience realistic physics, stunning visuals, and authentic bowling scoring in this polished indie game.
 
-![Game Screenshot](screenshots/game.png)
-
 ## ✨ Features
 
 ### 🎮 Gameplay
