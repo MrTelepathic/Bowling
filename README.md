@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Pygame](https://img.shields.io/badge/Pygame-2.0+-green.svg)](https://pygame.org)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A cinematic Fake-3D bowling game built with Python and Pygame. Experience realistic physics, stunning visuals, and authentic bowling scoring in this polished indie game.
 
