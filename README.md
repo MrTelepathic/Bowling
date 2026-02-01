@@ -38,8 +38,8 @@ A cinematic Fake-3D bowling game built with Python and Pygame. Experience realis
 
 ```bash
 # Clone or download the repository
-git clone https://github.com/yourusername/bowling-3d.git
-cd bowling-3d
+git clone https://github.com/MrTelepathic/bowling.git
+cd bowling
 
 # Install dependencies
 pip install pygame
@@ -73,7 +73,7 @@ This section provides a comprehensive walkthrough of the game's code, designed t
 ## Project Structure
 
 ```
-bowling-3d/
+bowling/
 ├── bowling_game.py    # Main game file (all code in one file)
 ├── README.md          # This file
 └── screenshots/       # Game screenshots
@@ -746,27 +746,11 @@ COLOR_LANE = (100, 50, 150)  # Purple lane
 
 ---
 
-## 📸 Screenshots
-
-*Add your screenshots here*
-
-### Main Menu
-![Main Menu](screenshots/menu.png)
-
-### Gameplay
-![Gameplay](screenshots/gameplay.png)
-
-### Scoreboard
-![Scoreboard](screenshots/scoreboard.png)
-
----
-
 ## 🔮 Future Improvements
 
 Potential features to add:
 
 - [ ] **Sound effects** - Ball roll, pin hits, crowd cheers
-- [ ] **Music** - Background music for menu and gameplay
 - [ ] **High scores** - Save best scores to file
 - [ ] **Different ball colors** - Unlockable skins
 - [ ] **Lane oil patterns** - Affect ball curve
@@ -775,10 +759,6 @@ Potential features to add:
 - [ ] **Online multiplayer** - Network play
 
 ---
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Credits
 
